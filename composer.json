@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "josindarov\\TaskManager\\": "C:\\Users\\99899\\Desktop\\PHP learn\\package\\src\\ToDolist\\app"
+            "josindarov\\TaskManager\\": "../../src/ToDolist/app/"
         }
     },
 
