@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace josindarov\TaskManager\Http\Controllers;
 
-use App\Models\Task;
+use josindarov\TaskManager\Models\Task;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 

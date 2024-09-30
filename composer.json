@@ -13,6 +13,7 @@
             "josindarov\\TaskManager\\": "C:\\Users\\99899\\Desktop\\PHP learn\\package\\src\\ToDolist\\app"
         }
     },
+
     "extra": {
         "laravel": {
             "providers": [
