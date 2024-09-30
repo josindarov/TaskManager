@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "josindarov\\TaskManager\\TaskManagerServiceProvider"
+                "josindarov\\TaskManager\\Providers\\TaskManagerServiceProvider"
             ]
         }
     }

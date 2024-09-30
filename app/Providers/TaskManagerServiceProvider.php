@@ -1,6 +1,6 @@
 <?php
 
-namespace josindarov\TaskManager;
+namespace josindarov\TaskManager\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
